@@ -1,0 +1,35 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "TOP 10 JUEGOS DE TERROR que puedes jugar YA MISMO",
+      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScNnhc7synQVgzuGzNe1DpCuPMcOTYKxfZrQ&s",
+      "descripcion": "Los Mejores Juegos de Terror son difíciles de encontrar pero no imposibles... Sin embargo, estos no son los mejores juegos de terror del mundo, sino una pequeña parte de esos.",
+      "link": "https://www.youtube.com/embed/uGbwUxQm_Vk?si=Azpov4-nGLXuPaQC",
+      "equipo": "juegos de terror"
+    }
+ 
+  ],
+  "Lista": [
+    {
+      "id": "1",
+      "equipo": "Nuevos JUEGOS",
+      "colorPrimario": "6BD1FF"
+    },
+    {
+      "id": "2",
+      "equipo": "juegos de disparos",
+      "colorPrimario": "00C86F"
+    },
+    {
+      "id": "3",
+      "equipo": "juegos de accion",
+      "colorPrimario": "FFBA05"
+    },
+    {
+      "id": "3",
+      "equipo": "juegos de terror",
+      "colorPrimario": "FF0000"
+    }
+  ]
+}
